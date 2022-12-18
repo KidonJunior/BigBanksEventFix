@@ -1,9 +1,10 @@
 {
     "name" : "Big Bank's Event Fix",
-    "description" : "This mod fix Big Bank for the XMAS Event",
+    "description" : "This mod fix Big Bank for the XMAS Event
+Changelog v1.01: Fixed a bug where Almir location would change in all maps instead of only Big Bank.",
     "author" : "Kidon Junior",
     "contact" : "https://github.com/KidonJunior",
-    "version" : "1.0",
+    "version" : "1.01",
     "priority" : 1,
     "blt_version" : 2,
     "image" : "eventfix.png",
